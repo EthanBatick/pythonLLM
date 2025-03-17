@@ -1,0 +1,6 @@
+files:
+data collection
+neural network generator and computer
+trainer
+application
+file to save the weights
